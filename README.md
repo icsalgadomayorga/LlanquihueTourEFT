@@ -63,7 +63,7 @@ LlanquihueTour
 1. Clona el repositorio desde GitHub:
 
 ```bash
-git clone https://github.com/icsalgadomayorga/LlanquihueTour4.git
+git clone https://github.com/icsalgadomayorga/LlanquihueTourEFT.git
 ```
 
 2. Abre el proyecto en IntelliJ IDEA.
@@ -75,5 +75,5 @@ git clone https://github.com/icsalgadomayorga/LlanquihueTour4.git
 
 ---
 
-**Repositorio GitHub:** \[https://github.com/icsalgadomayorga/LlanquihueTour4.git]
-**Fecha de entrega:** \[13/07/2025]
+**Repositorio GitHub:** \[https://github.com/icsalgadomayorga/LlanquihueTourEFT.git]
+**Fecha de entrega:** \[19/07/2025]

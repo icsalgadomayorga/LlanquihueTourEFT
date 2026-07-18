@@ -1,0 +1,3 @@
+María Soto;21367891-5;Av Costanera 23;Frutillar;Guía Turística;950000
+Luis Rojas;17456328-4;Los Copihues 455;Llanquihue;Conductor;870000
+Ana Muñoz;15698365-8;Los Laureles 75;Puerto Varas;Administrativa;1200000

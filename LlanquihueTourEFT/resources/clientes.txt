@@ -1,0 +1,3 @@
+Juan Pérez;17894576-9;Los Parques 120;Llanquihue;juanp@gmail.com
+Pedro Gómez;20354955-K;San Martín 85;Puerto Varas;pedrog@gmail.com
+María Torres;18965566-3;Los Alerces 67;Frutillar;mariat@gmail.com

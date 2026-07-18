@@ -1,0 +1,5 @@
+Tour Lago Llanquihue;20000
+Ruta Gastronómica;45000
+Paseo Frutillar;25000
+Excursión Volcán Osorno;60000
+Tour Saltos del Petrohué;30000
